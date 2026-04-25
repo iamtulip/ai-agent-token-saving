@@ -1,0 +1,29 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Codex / Claude agent state
+.codex
+
+# Secrets & env
+.env
+.env.*
+secrets.*
+*.key
+*.pem
+
+# Logs
+*.log
+logs/
+
+# Temp
+*.tmp
+*.bak
